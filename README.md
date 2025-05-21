@@ -1,5 +1,8 @@
 # Burger Calorie Counter
 
+![Image](https://github.com/user-attachments/assets/a19549fd-a1ee-4fd3-949f-ea02109ac548)
+![Image](https://github.com/user-attachments/assets/19477ffa-a4c4-4fec-851e-77f704a83775)
+
 An interactive Android app that allows users to customize a burger and view its total calorie count based on selected ingredients. Built for educational purposes using Java and Android SDK.
 
 ## Features
@@ -52,15 +55,6 @@ The app creates a `Burger` object with calorie values for each selected option. 
 3. Run on an emulator or connected device.
 
 Ensure you have internet permissions enabled only if needed for future enhancements (e.g., calorie API or nutrition facts).
-
-## Screenshots
-
-![Image](https://github.com/user-attachments/assets/a19549fd-a1ee-4fd3-949f-ea02109ac548)
-![Image](https://github.com/user-attachments/assets/19477ffa-a4c4-4fec-851e-77f704a83775)
-
-## License
-
-This app is intended for learning purposes. Feel free to modify and expand it.
 
 
 
