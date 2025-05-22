@@ -54,7 +54,5 @@ The app creates a `Burger` object with calorie values for each selected option. 
 2. Open in **Android Studio**.
 3. Run on an emulator or connected device.
 
-Ensure you have internet permissions enabled only if needed for future enhancements (e.g., calorie API or nutrition facts).
-
 
 
